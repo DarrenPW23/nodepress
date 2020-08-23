@@ -1,0 +1,6 @@
+DB:
+  ENV: 'live'
+  db_host: 'localhost'
+  db_name: 'nodepress'
+  db_user: 'root'
+  db_password: ''

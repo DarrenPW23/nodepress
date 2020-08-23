@@ -1,0 +1,16 @@
+{
+  "name": "nodepress",
+  "version": "1.0.0",
+  "description": "This is a basic CMS build for NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "author": "DarrenW",
+  "license": "ISC",
+  "dependencies": {
+    "app-root-path": "^3.0.0",
+    "js-yaml": "^3.14.0",
+    "mysql": "^2.18.1"
+  }
+}
